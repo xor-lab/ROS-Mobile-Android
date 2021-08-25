@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/card_bg_onlyborder.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/circle.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/empty_divider.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/ic_abort_btn.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/ic_add_white_24dp.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/ic_refresh.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/ic_remove_circle_white_24dp.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/ic_rss_feed_black_24dp.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/onboarding_button_gradient_style.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/onboarding_indicator_default.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/drawable/onboarding_indicator_selecter.xml" value="0.26979166666666665" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/config_chooser_item.xml" value="0.152" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_group_widget.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_layer.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_publisher.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_publisher_layer.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_publisher_widget.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_subscriber.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_subscriber_layer.xml" value="0.6" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_subscriber_widget.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/detail_widget.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/drawer_header.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/dropdown_menu_popup_item.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragent_onboarding.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_configurations.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_detail_content.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_detail_main.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_intro.xml" value="0.2" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_main.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_master.xml" value="0.4" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_ssh.xml" value="0.536" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/fragment_viz.xml" value="0.3234349919743178" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/item_widget_card_list.xml" value="0.2" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/osm_map.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/ssh_text_view.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/update_popup_window.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/viz_counter.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/viz_counter_merge.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/viz_location_layout.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_base.xml" value="0.176" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_battery.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_button.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_camera.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_debug.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_gps.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_gridmap.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_joystick.xml" value="0.2" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_label.xml" value="0.536" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_laserscan.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_logger.xml" value="0.2" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_path.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_pose.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_rqtplot.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_touchgoal.xml" value="0.20108695652173914" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/layout/widget_detail_viz2d.xml" value="0.2" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/menu/toolbar_menu.xml" value="0.264" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21197916666666666" />
+        <entry key="..\:/GitHub/Android studio/ROS-Mobile-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22604166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/doc" />
     <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
@@ -30,7 +98,7 @@
     </option>
     <option name="myNotNulls">
       <value>
-        <list size="13">
+        <list size="14">
           <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
           <item index="1" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
           <item index="2" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
@@ -44,11 +112,12 @@
           <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
           <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
           <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
         </list>
       </value>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
