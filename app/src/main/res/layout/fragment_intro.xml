@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
-        android:text="Next"
+        android:text="下一页"
         app:layout_constraintBottom_toTopOf="@+id/tabIndicator"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -56,36 +56,36 @@
     </com.google.android.material.tabs.TabLayout>
 
     <Button
-        android:visibility="invisible"
-        android:background="@drawable/onboarding_button_gradient_style"
         android:id="@+id/onboarding_btn_getStarted"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:text="Get Started"
+        android:background="@drawable/onboarding_button_gradient_style"
+        android:text="开始第一次体验"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:visibility="invisible"
-        android:background="@drawable/onboarding_button_gradient_style"
         android:id="@+id/onboarding_btn_startConfig"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="64dp"
-        android:text="Start Configuration"
+        android:background="@drawable/onboarding_button_gradient_style"
+        android:text="进入系统"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:visibility="invisible"
         android:id="@+id/onboarding_editText_configName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="64dp"
-        android:text="My first Config"
+        android:text="我的第一个系统"
+        android:visibility="invisible"
         app:layout_constraintBottom_toTopOf="@id/onboarding_btn_startConfig"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

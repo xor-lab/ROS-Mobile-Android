@@ -3,20 +3,20 @@
 
     <string-array name="intro_title">
         <item>ROS-Mobile</item>
-        <item>Configuration</item>
-        <item>Customization</item>
-        <item>Monitoring</item>
-        <item>Controlling</item>
-        <item>SSH</item>
+        <item>系统</item>
+        <item>高自由度定制</item>
+        <item>监测机器人</item>
+        <item>远程操控</item>
+        <item>SSH终端</item>
     </string-array>
 
     <string-array name="intro_descr">
-        <item>ROS-Mobile is an Android application designed for dynamic control and visualization of mobile robotic systems operated by the Robot Operating System (ROS).</item>
-        <item>Create your own configurations for each of your robotic systems.</item>
-        <item>Enhance your configurations by defining customizable nodes in the Details section.</item>
-        <item>Monitoring of your robotic system, for example by displaying an occupancy grid map.</item>
-        <item>Controlling of your robotic system, for example using teleoperational control via the joystick node.</item>
-        <item>Directly accessing the robot system via the embedded SSH terminal.</item>
+        <item>ROS Mobile是一款安卓应用程序，用于机器人操作系统（ROS）操作的移动机器人系统的动态控制和可视化</item>
+        <item>你可以创建多个系统来适配每个机器人</item>
+        <item>也可以在控件中通过自定义来增强控制</item>
+        <item>利用显示占用栅格地图可以监视你的机器人系统</item>
+        <item>操纵杆节点可以帮助你远程操作、控制你的机器人系统</item>
+        <item>此外，通过嵌入式SSH终端可以直接访问机器人系统</item>
     </string-array>
 
     <integer-array name="intro_img">

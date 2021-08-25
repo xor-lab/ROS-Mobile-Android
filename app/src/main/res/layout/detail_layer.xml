@@ -10,7 +10,7 @@
         android:id="@+id/name_textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Name"
+        android:text="层级名称"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"
@@ -23,7 +23,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:hint="Name"
+        android:hint="名称"
         app:boxBackgroundMode="outline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -36,7 +36,7 @@
             android:imeOptions="actionDone"
             android:inputType="text"
             android:singleLine="true"
-            android:text = "Name" />
+            android:text="Name" />
     </com.google.android.material.textfield.TextInputLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

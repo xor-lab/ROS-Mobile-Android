@@ -22,7 +22,7 @@
         android:id="@+id/startButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Start"
+        android:text="开始"
         app:layout_constraintBottom_toBottomOf="@+id/resetButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="Reset"
+        android:text="重置"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/startButton"
         app:layout_constraintHorizontal_bias="0.5"
@@ -51,7 +51,6 @@
         app:layout_constraintTop_toBottomOf="@+id/resetButton"
         app:outerRingColor="@color/whiteMedium"
         app:stickColor="@color/whiteLight" />
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

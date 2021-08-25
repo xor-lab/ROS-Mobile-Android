@@ -16,7 +16,7 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Appearence"
+        android:text="输入"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"
@@ -29,7 +29,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:hint="Label text"
+        android:hint="标签文本"
         app:boxBackgroundMode="outline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -42,7 +42,7 @@
             android:imeOptions="actionDone"
             android:inputType="text"
             android:singleLine="true"
-            android:text="Label text" />
+            android:text="标签文本" />
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -52,7 +52,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:text="Rotation"
+        android:text="旋转"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/input_layout" />

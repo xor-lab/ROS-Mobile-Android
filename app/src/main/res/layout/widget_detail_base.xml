@@ -38,7 +38,7 @@
                 android:layout_centerVertical="true"
                 android:layout_marginRight="@dimen/padd_10"
                 android:layout_toLeftOf="@id/deleteIcon"
-                android:text="@string/delete"
+                android:text="删除"
                 android:textAllCaps="true"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textColor="#fff" />
@@ -57,7 +57,7 @@
                 android:id="@+id/title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Widget label"
+                android:text="控件标签"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 app:layout_constraintBottom_toTopOf="@+id/guideline2"
                 app:layout_constraintEnd_toStartOf="@+id/open_button"

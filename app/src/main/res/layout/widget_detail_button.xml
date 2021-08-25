@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="Parameters"
+        android:text="显示内容"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"
@@ -32,13 +32,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:hint="Button text"
+        android:hint="按钮"
         app:boxBackgroundMode="outline"
         app:endIconCheckable="false"
         app:endIconMode="none"
-        app:layout_constraintTop_toBottomOf="@id/textView"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/btnTextTypeText"
@@ -47,7 +47,7 @@
             android:imeOptions="actionDone"
             android:inputType="text"
             android:singleLine="true"
-            android:text="A button" />
+            android:text="按钮" />
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:text="Rotation"
+        android:text="旋转"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/input_layout3" />

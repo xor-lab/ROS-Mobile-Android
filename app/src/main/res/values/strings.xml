@@ -1,52 +1,52 @@
 <resources>
     <string name="app_name">ROS-Mobile</string>
 
-    <string name="add_widget">Add widget</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="add_widgets_to_your_configuration">Add one or more widgets to this configuration.</string>
-    <string name="delete">delete</string>
-    <string name="widget_undo">%1$s removed from config!</string>
-    <string name="add_configuration">Add configuration</string>
+    <string name="add_widget">添加控件</string>
+    <string name="navigation_drawer_open">打开导航</string>
+    <string name="navigation_drawer_close">关闭导航</string>
+    <string name="add_widgets_to_your_configuration">添加一个或多个控件到此系统中</string>
+    <string name="delete">删除</string>
+    <string name="widget_undo">%1$s 从系统中移除</string>
+    <string name="add_configuration">添加系统</string>
 
     <!-- Master view -->
-    <string name="master_ip_hint">Master URL</string>
-    <string name="master_port_hint">Master port</string>
-    <string name="need_help_button">Need help connecting?</string>
-    <string name="connection_checklist_title">Have you checked before connecting: </string>
+    <string name="master_ip_hint">机器人URL</string>
+    <string name="master_port_hint">端口</string>
+    <string name="need_help_button">需要帮助吗？</string>
+    <string name="connection_checklist_title">在连接之前，您是否检查过： </string>
     <string-array name="connection_checklist">
-        <item>Valid and active WIFI connection?</item>
-        <item>Correct IP and PORT of the ROS Master entered?</item>
-        <item>Is this device in the same network as the Master system?</item>
-        <item>Changed the environment variables of the Master system?</item>
-        <item>Master is running?</item>
-        <item>Correct topic names subscribed / published?</item>
+        <item>WIFI连接上了吗？</item>
+        <item>输入的ROS主机的IP和端口是否正确？</item>
+        <item>此设备是否与主系统位于同一网络中？</item>
+        <item>是否更改了主系统的环境变量？</item>
+        <item>机器人是否正在运行？</item>
+        <item>订阅/发布的主题名称是否正确？</item>
     </string-array>
 
     <!-- Buttons -->
-    <string name="button_connect">Connect</string>
-    <string name="button_send">Send</string>
-    <string name="viz_options_open_content">Show viz options</string>
+    <string name="button_connect">连接</string>
+    <string name="button_send">发送</string>
+    <string name="viz_options_open_content">显示VIZ选项</string>
 
     <!-- SSH Connection -->
-    <string name="ssh_connection">SSH Connection Data</string>
-    <string name="ssh_terminal">SSH Terminal</string>
-    <string name="ip_address_hint">IP Address</string>
-    <string name="port_hint">Port</string>
-    <string name="username_hint">Username</string>
-    <string name="password_hint">Password</string>
-    <string name="terminal_hint">Terminal Input</string>
+    <string name="ssh_connection">SSH连接数据</string>
+    <string name="ssh_terminal">SSH终端</string>
+    <string name="ip_address_hint">IP地址</string>
+    <string name="port_hint">端口</string>
+    <string name="username_hint">用户名</string>
+    <string name="password_hint">密码</string>
+    <string name="terminal_hint">终端输入</string>
 
     <!-- Default config -->
-    <string name="default_config_name">New Config</string>
+    <string name="default_config_name">新系统</string>
     <string name="default_master_ip">123.456.789.01</string>
     <string name="default_master_ticker_title">Default ticker title</string>
-    <string name="default_master_notification_title">Default title</string>
+    <string name="default_master_notification_title">默认标题</string>
 
     <!--Default SSH Settings -->
     <string name="default_ip_address">192.168.1.1</string>
     <string name="default_port">22</string>
-    <string name="default_username">pi</string>
+    <string name="default_username">hanning</string>
     <string name="default_password">raspberry</string>
 
     <!-- Preference key -->

@@ -10,7 +10,7 @@
         android:id="@+id/name_textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Name"
+        android:text="名称"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"
@@ -23,7 +23,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:hint="Name"
+        android:hint="名称"
         app:boxBackgroundMode="outline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -36,7 +36,7 @@
             android:imeOptions="actionDone"
             android:inputType="text"
             android:singleLine="true"
-            android:text = "Name" />
+            android:text="GPS名称" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
@@ -44,7 +44,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Viz location"
+        android:text="位置"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"
@@ -106,7 +106,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
-        android:hint="Width"
+        android:hint="宽度"
         app:boxBackgroundMode="outline"
         app:layout_constraintBottom_toBottomOf="@+id/textInputLayout"
         app:layout_constraintEnd_toStartOf="@+id/textInputLayout4"
@@ -121,7 +121,7 @@
             android:imeOptions="actionDone"
             android:inputType="number"
             android:singleLine="true"
-            android:text = "0" />
+            android:text="0" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -129,7 +129,7 @@
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="Height"
+        android:hint="高度"
         app:boxBackgroundMode="outline"
         app:layout_constraintBottom_toBottomOf="@+id/textInputLayout"
         app:layout_constraintEnd_toEndOf="parent"
@@ -144,7 +144,7 @@
             android:imeOptions="actionDone"
             android:inputType="number"
             android:singleLine="true"
-            android:text = "0" />
+            android:text="0" />
     </com.google.android.material.textfield.TextInputLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

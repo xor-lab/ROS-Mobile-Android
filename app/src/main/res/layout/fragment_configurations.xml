@@ -27,7 +27,7 @@
                 android:id="@+id/textView9"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:text="Current Config"
+                android:text="当前系统"
                 android:textAppearance="@style/TextAppearance.AppCompat.Small"
                 android:textColor="@color/colorAccent"
                 android:textStyle="bold"
@@ -41,7 +41,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="@string/default_config_name"
+                android:text="默认系统名称"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -89,7 +89,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
-                android:text="Stored"
+                android:text="所有系统"
                 android:textAppearance="@style/TextAppearance.AppCompat.Small"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView2"
@@ -132,7 +132,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp"
-            android:text="@string/add_configuration"
+            android:text="添加系统"
             android:textColor="@color/black01dp" />
 
     </LinearLayout>
